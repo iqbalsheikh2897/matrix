@@ -41,7 +41,7 @@ def create_session():
     return session
 
 # Initialize bot with the session
-bot = telebot.TeleBot('7599785141:AAEKbXgjfv5qliNlfstwfjUeJOzzUAGp6Z8')
+bot = telebot.TeleBot('7858493439:AAEDGY4WNmZkDHMFwwUbarXWmO3GXc8rB2s')
 bot.session = create_session()
 
 admin_id = ["7418099890"]
